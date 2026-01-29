@@ -1,7 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML models
 *.pkl
 *.joblib
 *.h5
-*.npy
-*.csv
+
+# Data
+Data/
 data/
-models/
