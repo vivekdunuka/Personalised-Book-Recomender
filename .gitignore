@@ -1,4 +1,7 @@
-__pycache__/
-.env
-venv/
-
+*.pkl
+*.joblib
+*.h5
+*.npy
+*.csv
+data/
+models/
